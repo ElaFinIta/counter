@@ -1,3 +1,9 @@
+Counter that can be increased and decreased by 1 and by 5. Reset button will reset the counter. The counter cannot get negative numbers. The counter circle background changes so that it's grey when the counter's value is zero, lightgreen when the value is odd and lightblue when the value is even.
+
+
+![Alt text](screenshot.png?raw=true "Optional Title")
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
