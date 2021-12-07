@@ -51,7 +51,7 @@ class Main extends Component {
         //     circleClass = "circle odd"
         // }
 
-        // same with ternary notation: if replaced with + and else with :
+        // same with ternary notation: if replaced with ? and else with :
         this.state.counter === 0 
             ? (circleClass = "circle")
             : this.state.counter % 2 === 0
